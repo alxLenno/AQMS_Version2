@@ -1,0 +1,24 @@
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Arduino / PlatformIO / IDE artifacts
+build/
+*.bin
+*.hex
+*.elf
+*.o
+*.a
+.vscode/
+.idea/
+*.swp
+*~
+
+# Secrets & Local Configurations
+secrets.h
+.env
